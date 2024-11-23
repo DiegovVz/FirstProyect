@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirtsProyect</string>
+    <string name="titulo">Bienvenu</string>
+    <string name="buttontxt">Entrer</string>
+</resources>
